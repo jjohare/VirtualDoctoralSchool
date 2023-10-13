@@ -1,4 +1,3 @@
-# Virtual Doctoral School using Open Source and RGB / BitVM
 
 # Virtual Doctoral School in Biomedicine Backed by RBG / BitVM
 
